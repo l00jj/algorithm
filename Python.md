@@ -12,3 +12,9 @@ bisect_right(arr, target)
 # 二分插入函数
 bisect.insort()
 ```
+###函数如何引入比较器
+```python
+import operator
+operator.add
+operator.xor
+```
