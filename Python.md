@@ -22,4 +22,8 @@ operator.xor
 (num=123,val) 报错，带默认值的参数必须放在最后
 (val,\*,num=123)这个\*用于隔断之前的值，如果要修改最后num的值，需要在使用的时候fun(1,num=7)这样修改
 
-[参考](https://www.cnblogs.com/happyyangyanghappy/p/17085375.html)
+https://www.cnblogs.com/happyyangyanghappy/p/17085375.html
+
+### 优先堆的使用
+它主要的特点是需要一个额外的数列，并且原地修改这个数列，如果是pop这种弹出操作，数列会真实减少长度
+http://study.yali.edu.cn/pythonhelp/library/heapq.html
