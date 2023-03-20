@@ -20,6 +20,14 @@ import operator
 operator.add
 operator.xor
 ```
+### 叠加器/累加器
+```python
+# http://study.yali.edu.cn/pythonhelp/library/itertools.html#itertools.accumulate
+itertools.accumulate(iterable[, func, *, initial=None])
+[v for v in enumerate(accumulate(list, operator.mul))]
+# http://study.yali.edu.cn/pythonhelp/library/functools.html?highlight=reduce#functools.reduce
+functools.reduce(function, iterable[, initializer])
+```
 ### 如何定义参数和使用
 (num=123,val) 报错，带默认值的参数必须放在最后
 (val,\*,num=123)这个\*用于隔断之前的值，如果要修改最后num的值，需要在使用的时候fun(1,num=7)这样修改
