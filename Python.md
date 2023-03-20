@@ -1,4 +1,6 @@
-使用defaultdict修改默认行为
+### 倒序对比
+`a == a[::-1]`，字符串头部与结尾双指针对比，常用于回文判断
+### 使用defaultdict修改默认行为
 ```python
 dic = defaultdict(int)
 dic[0] += 1
