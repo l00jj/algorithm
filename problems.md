@@ -7,6 +7,38 @@
 > 逐层数位压缩动态规划，预处理所有可能的逐行附加值，固化队列和字典查询最大值
 > 逐个数位压缩动态规划，预处理所有可能的逐行附加值，固化队列和字典查询最大值，i之前n个组成数位进行压缩
 
+# 没看懂
+[982. 按位与为零的三元组](https://leetcode.cn/problems/triples-with-bitwise-and-equal-to-zero/)  
+> 快速沃尔什变换
+> https://oi-wiki.org//math/poly/fwt/
+
+[1015. 可被 K 整除的最小整数](https://leetcode.cn/problems/smallest-integer-divisible-by-k/)  
+> 带余除法的高级应用  
+> 未理解欧拉定理解[【笔记】](https://github.com/l00jj/algorithm/issues/22)  
+
+[1012. 至少有 1 位重复的数字](https://leetcode.cn/problems/numbers-with-repeated-digits/)  
+> 没看懂第一名答案解法
+
+[1330. 翻转子数组得到最大的数组值](https://leetcode.cn/problems/reverse-subarray-to-maximize-array-value/)  
+> 没看懂 https://leetcode.cn/problems/reverse-subarray-to-maximize-array-value/solution/bu-hui-hua-jian-qing-kan-zhe-pythonjavac-c2s6/
+
+[1079. 活字印刷](https://leetcode.cn/problems/letter-tile-possibilities/)  
+> 没看懂最优解，dp，  https://leetcode.cn/problems/letter-tile-possibilities/solution/on2-ji-shu-dppythonjavacgo-by-endlessche-hmez/  
+
+[[918. 环形子数组的最大和](https://leetcode.cn/problems/maximum-sum-circular-subarray/)](https://leetcode.cn/problems/maximum-sum-circular-subarray/)  
+
+[2735. 收集巧克力](https://leetcode.cn/problems/collecting-chocolates/description/)  
+> 没理解线性答案，没办法得出答案一定是V字形分布的结论
+
+[1681. 最小不兼容性](https://leetcode.cn/problems/minimum-incompatibility/)  
+> 不理解最快速度的桶排序
+
+[1483. 树节点的第 K 个祖先](https://leetcode.cn/problems/kth-ancestor-of-a-tree-node/)  
+> 没搞懂重链剖分实现 https://leetcode.cn/problems/kth-ancestor-of-a-tree-node/solution/python-zhong-lian-pou-fen-shi-xian-de-de-vwkf/
+
+[1595. 连通两组点的最小成本](https://leetcode.cn/problems/minimum-cost-to-connect-two-groups-of-points/)  
+> 没理解最优解，[匈牙利算法的DFS实现](https://leetcode.cn/problems/minimum-cost-to-connect-two-groups-of-points/solution/er-fen-tu-zui-da-quan-pi-pei-xiong-ya-li-fd25/)  
+
 
 
 # 周赛
