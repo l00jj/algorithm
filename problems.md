@@ -28,8 +28,8 @@
 [[918. 环形子数组的最大和](https://leetcode.cn/problems/maximum-sum-circular-subarray/)](https://leetcode.cn/problems/maximum-sum-circular-subarray/)  
 
 [2735. 收集巧克力](https://leetcode.cn/problems/collecting-chocolates/description/)  
-> 没理解线性答案
-> 【已解决】答案一定是V字形分布的结论可以通过分段模拟得出，能成w的情况只有线段斜率出现递增的情况才会出现有多个峰值，但由于每次减少的量都是当前最大值的总和，每次最大值都会减少，故不存在w情况，答案分布只会是v；
+> - 没理解线性答案  
+> - 【已解决】答案一定是V字形分布的结论可以通过分段模拟得出，能成w的情况只有线段斜率出现递增的情况才会出现有多个峰值，但由于每次减少的量都是当前最大值的总和，每次最大值都会减少，故不存在w情况，答案分布只会是v；
 
 [1681. 最小不兼容性](https://leetcode.cn/problems/minimum-incompatibility/)  
 > 不理解最快速度的桶排序
