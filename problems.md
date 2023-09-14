@@ -40,7 +40,8 @@
 [1595. 连通两组点的最小成本](https://leetcode.cn/problems/minimum-cost-to-connect-two-groups-of-points/)  
 > 没理解最优解，[匈牙利算法的DFS实现](https://leetcode.cn/problems/minimum-cost-to-connect-two-groups-of-points/solution/er-fen-tu-zui-da-quan-pi-pei-xiong-ya-li-fd25/)  
 
-
+[2850. 将石头分散到网格图的最少移动次数](https://leetcode.cn/problems/minimum-moves-to-spread-stones-over-grid/description/)  
+> 可能有比全量枚举更省的方案应对条件加大
 
 # 周赛
 [第 354 场周赛](https://leetcode.cn/contest/weekly-contest-354)  
