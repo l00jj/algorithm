@@ -43,6 +43,11 @@
 [2850. 将石头分散到网格图的最少移动次数](https://leetcode.cn/problems/minimum-moves-to-spread-stones-over-grid/description/)  
 > 可能有比全量枚举更省的方案应对条件加大
 
+[2857. 统计距离为 k 的点对](https://leetcode.cn/problems/count-pairs-of-points-with-distance-k/description/)  
+> 没看懂如何分桶加速，分桶计算高位是否符合抵消原则，https://leetcode.cn/problems/count-pairs-of-points-with-distance-k/solutions/2448494/fen-tong-bao-li-jin-si-onqing-song-pian-go8iq/
+
+
+
 # 周赛
 [第 354 场周赛](https://leetcode.cn/contest/weekly-contest-354)  
 [2781. 最长合法子字符串的长度](2781. 最长合法子字符串的长度)  
