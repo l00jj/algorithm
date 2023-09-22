@@ -34,9 +34,6 @@
 [1681. 最小不兼容性](https://leetcode.cn/problems/minimum-incompatibility/)  
 > 不理解最快速度的桶排序
 
-[1483. 树节点的第 K 个祖先](https://leetcode.cn/problems/kth-ancestor-of-a-tree-node/)  
-> 没搞懂重链剖分实现 https://leetcode.cn/problems/kth-ancestor-of-a-tree-node/solution/python-zhong-lian-pou-fen-shi-xian-de-de-vwkf/
-
 [1595. 连通两组点的最小成本](https://leetcode.cn/problems/minimum-cost-to-connect-two-groups-of-points/)  
 > 没理解最优解，[匈牙利算法的DFS实现](https://leetcode.cn/problems/minimum-cost-to-connect-two-groups-of-points/solution/er-fen-tu-zui-da-quan-pi-pei-xiong-ya-li-fd25/)  
 
